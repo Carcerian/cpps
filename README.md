@@ -1,4 +1,4 @@
-# Carcerian Custom Persistent Placeables (CPPS) v1.0
+# Carcerian's Persistent Placeable System (CPPS) v1.0
 
 A comprehensive DM-friendly system for creating, managing, and persisting custom placeables in Neverwinter Nights: Enhanced Edition (NWN:EE).
 
