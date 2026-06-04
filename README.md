@@ -14,13 +14,6 @@ CPPS provides Players and Dungeon Masters with powerful tools to build, customiz
 
 ## Features
 
-### DM Console Interface
-- In-game menu system for placeable management
-- Conversation-based interface
-- Conditional access (DM/Plot only)
-- Real-time rendering and preview
-- Page navigation for large lists
-
 ### Placeable Operations
 - **Create/Spawn** - New placeables at player location
 - **Delete** - Remove unwanted placeables
