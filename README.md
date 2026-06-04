@@ -4,7 +4,7 @@ A comprehensive DM-friendly system for creating, managing, and persisting custom
 
 ## Overview
 
-CPPS provides Dungeon Masters with powerful tools to build, customize, rotate, scale, and save placeable objects without scripting. Complete conversation system with conditional logic, texture management, and persistent storage of all placements.
+CPPS provides Players and Dungeon Masters with powerful tools to build, customize, rotate, scale, and save placeable objects without scripting. Complete conversation system with conditional logic, texture management, and persistent storage of all placements.
 
 **Current Status:** v1.0 - Production Ready  
 **Language:** NWScript (100% NWN:EE compatible)  
